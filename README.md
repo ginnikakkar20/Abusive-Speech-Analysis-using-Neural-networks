@@ -11,6 +11,10 @@ CSE 6240 - Web Search &amp; Text Mining Project - Spring 2020
   - Run the python notebook "Preprocessing.ipynb" to preprocess and generate n-grams from the data
 3. Hashtag Correlation:
   - Run the code "Hashtags association.py" for generating correlation between hashtags.
+4. T-SNE plot:
+  -
+5. K-Means Clustering:
+  - 
 
 
 ## Dataset.
