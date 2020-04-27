@@ -25,14 +25,15 @@ The dataset can be downloaded from https://www.dropbox.com/sh/4mapojr85a6sc76/AA
 1) Download the CSV and configure the path.
 
 2) Download the notebooks and run the notebooks on Google Colab. Change the runtime configuration to TPU.
+ 
   2.1) For BERT + KimCNN
-  run the code
+  run the code BERT_KimCNN.ipnyb
   
   2.2) For BERT + CNN
-  run the code
+  run the code BERT_CNN.ipnyb
   
   2.3) For BERT + LSTM
-  run the code
+  run the code BERT_LSTM.ipnyb
 
 3) The hyperparameters have been hardcoded and can be modified accordingly.
 
