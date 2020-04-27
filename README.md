@@ -12,9 +12,9 @@ CSE 6240 - Web Search &amp; Text Mining Project - Spring 2020
 3. Hashtag Correlation:
   - Run the code "Hashtags association.py" for generating correlation between hashtags.
 4. T-SNE plot:
-  -
+  - Run the code WordTSNE.ipynb to get the TSNE-Plots
 5. K-Means Clustering:
-  - 
+  - Run the code Tweet_cluster.ipynb to generate the K-Means Cluster
 
 
 ## Dataset.
@@ -23,6 +23,6 @@ The dataset can be downloaded from https://www.dropbox.com/sh/4mapojr85a6sc76/AA
 
 ## Steps to run the code
 1) Download the CSV and configure the path.
-2) Download the notebooks and run them on Google Colab.
+2) Download the notebooks and run " " on Google Colab.
 3) The hyperparameters have been hardcoded and can be modified accordingly.
 
