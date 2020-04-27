@@ -22,7 +22,17 @@ We are using the dataset prepared by crowd-sourcing after an 8 month study from 
 The dataset can be downloaded from https://www.dropbox.com/sh/4mapojr85a6sc76/AABYMkjLVG-HhueAgd0qM9kwa?dl=0
 
 ## Steps to run the code
-1) Download the CSV and configure the path
-2) Download the notebooks and run BERT_KimCNN.ipynb/BERT_LSTM.ipynb/BERT_CNN.ipynb on Google Colab
-3) The hyperparameters have been hardcoded and can be modified accordingly
+1) Download the CSV and configure the path.
+
+2) Download the notebooks and run the notebooks on Google Colab. Change the runtime configuration to TPU.
+  2.1) For BERT + KimCNN
+  run the code
+  
+  2.2) For BERT + CNN
+  run the code
+  
+  2.3) For BERT + LSTM
+  run the code
+
+3) The hyperparameters have been hardcoded and can be modified accordingly.
 
